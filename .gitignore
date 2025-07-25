@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Django
+*.pyc
+db.sqlite3
+
+# Environments
+.env
+venv/
+.env.*
+
+# Static / Media (если локально собираешь)
+staticfiles/
+media/
+
+.idea/
+static/
