@@ -16,6 +16,7 @@ Simple Django + Stripe integration for selling Items and Orders with Discounts a
 ```
 git clone <repo-url>
 cd PaymentSystem
+cp .env.example .env
 ```
 
 2. Build and start containers:
